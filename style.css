@@ -1,0 +1,43 @@
+div.content {
+    width: 500px;
+    border: 2px solid black;
+    margin: 35px auto;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    text-align: right;
+    font-size: 20px;
+}
+
+#main-container{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 10px auto;
+    padding: 20px;
+}
+form input{
+    margin-top: 5px;
+}
+
+table{
+    width: 100%;
+    border: 1px solid #606060;
+    border-spacing: 0px;   
+}
+
+table td{
+    border: 1px solid #606060;
+    padding: 7px;
+    font-size: 20px;
+}
+
+table body{
+    font-size: 20px;
+}
